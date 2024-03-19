@@ -1,2 +1,4 @@
 # APPC
-Exercícios da disciplina de APPC
+Exercícios práticos da disciplina de APPC
+
+Professora: Lúcia
